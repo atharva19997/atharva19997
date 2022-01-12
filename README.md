@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, Atharva here!</h1>
 
 <p align='center'>
-<a href="linked.com/in/atharvaakulkarni"><img height="30" src="Icons/Linkedin.png"></a>&nbsp;&nbsp;
-<a href="instagram.com/atharva_k"><img height="30" src="Icons/Instagram.png"></a>&nbsp;&nbsp;
-<a href="facebook.com/Atharva19997"><img height="30" src="Icons/Facebook.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/atharvaakulkarni"><img height="30" src="Icons/Linkedin.png"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/atharva_k"><img height="30" src="Icons/Instagram.png"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/Atharva19997"><img height="30" src="Icons/Facebook.png"></a>&nbsp;&nbsp;
 </p>
 
 <h3 align="center">I love learning and working on new things</h3>

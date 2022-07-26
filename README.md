@@ -4,7 +4,6 @@
 <a href="https://www.linkedin.com/in/atharvaakulkarni"><img height="40" src="Icons/Linkedin.png"></a>&nbsp;&nbsp;
 <a href="mailto:atharva19997@gmail.com"><img height="35" src="Icons/Email.png"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/atharva_k"><img height="35" src="Icons/Instagram.png"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/Atharva19997"><img height="35" src="Icons/Facebook.png"></a>&nbsp;&nbsp;
 </p>
 
 <h3 align="center">I love learning and working on new things</h3>

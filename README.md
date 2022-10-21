@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning and working on **Full Stack Development using VB.NET!**
 
-- 📝 I have a mechanical degree and I develop programs for a mechanical firm!
+- 📝 I have a mechanical degree and I work on developing apps of file and email security!
 
 - 👨‍💻 Have completed an Ethical hacking course and totally want to learn more!
 

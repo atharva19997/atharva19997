@@ -8,9 +8,9 @@
 
 <h3 align="center">I love learning and working on new things</h3>
 
-- 🌱 I’m currently learning and working on **Full Stack Development using VB.NET!**
+- 🌱 I’m currently learning and working on **Full Stack Development using .NET Framework!**
 
-- 📝 I have a mechanical degree and I work on developing apps of file and email security!
+- 📝 I have a **mechanical degree** and I work on **development of file and email security Product**!
 
 - 👨‍💻 Have completed an Ethical hacking course and totally want to learn more!
 
